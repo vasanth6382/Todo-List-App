@@ -129,35 +129,16 @@ li {
   }
 
 
+
+
+
+
+
 @media only screen and (min-width: 500px) {
   body {
     min-height: 100vh;
   }
 }
-
-.heading__title {
-  transform: rotate(2deg);
-  padding: 0.2rem 1.2rem;
-  border-radius: 20% 5% 20% 5%/5% 20% 25% 20%;
-  background-color: rgba(0, 255, 196, 0.7);
-  font-size: 1.5rem;
-}
-
-@media only screen and (min-width: 500px) {
-  .heading__title {
-    font-size: 2rem;
-  }
-}
-
-.heading__img {
-  width: 24%;
-}
-
-.form__label {
-  display: block;
-  margin-bottom: 0.5rem;
-}
-
 
 @media only screen and (min-width: 500px) {
   .form__input {
